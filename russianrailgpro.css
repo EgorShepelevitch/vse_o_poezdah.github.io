@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'RussianRailGPro';
+	src: url('../fonts/russianrailgpro.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/russianrailgpro.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/russianrailgpro.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/russianrailgpro.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/russianrailgpro.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/russianrailgpro.svg#russianrailgpro') format('svg'); /* Chrome < 4, Legacy iOS */
+}
